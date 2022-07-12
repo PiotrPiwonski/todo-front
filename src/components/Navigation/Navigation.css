@@ -1,0 +1,12 @@
+.navigation {
+    display: flex;
+    justify-content: center ;
+    border-bottom: solid 1px;
+    padding-bottom: 1rem;
+}
+
+.nav h1 {
+    margin: 20px;
+    text-align: center;
+}
+

@@ -1,0 +1,62 @@
+.todos-container {
+    text-align: center;
+}
+
+.todos-container h2 {
+    margin-bottom: 15px;
+}
+
+.todos-container table {
+    margin: 0 auto;
+}
+
+.todos-container th {
+    color: #186b18;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding-bottom: 15px;
+    font-size: 18px;
+}
+
+.todos-container h3 {
+    margin-bottom: 5px;
+}
+
+.todo-form h2 {
+    margin-bottom: 5px;
+}
+
+.todo-form input {
+    background-color: #183c57;
+    color: #d5d2d2;
+    margin-bottom: 20px;
+    border-width: 2px;
+    border-color: #186b18;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.todo-form button {
+    margin-left: 10px;
+    border: 0;
+    background: #186b18;
+    color: #d5d2d2;
+    text-transform: uppercase;
+    /*font-weight: bold;*/
+    font-size: 12px;
+    padding: 1px 25px;
+    border-radius: 2px;
+    line-height: 22px;
+    text-decoration: none;
+}
+
+img {
+    height: 25px;
+    margin-left: 20px;
+}
+
+.list td {
+    font-size: 16px;
+
+}

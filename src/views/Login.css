@@ -1,0 +1,31 @@
+.container {
+    text-align: center;
+}
+
+.log-form label {
+    font-size: 18px;
+    display: block;
+}
+.log-form input {
+    background-color: #183c57;
+    color: #d5d2d2;
+    margin-bottom: 20px;
+    border-width: 2px;
+    border-color: #186b18;
+    border-radius: 4px;
+    font-size: 16px;
+
+}
+
+.log-form button {
+    border: 0;
+    background: #186b18;
+    color: #d5d2d2;
+    text-transform: uppercase;
+    /*font-weight: bold;*/
+    font-size: 12px;
+    padding: 1px 25px;
+    border-radius: 2px;
+    line-height: 22px;
+    text-decoration: none;
+}
