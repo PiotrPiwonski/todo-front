@@ -1,3 +1,6 @@
+Projekt końcowy MegaK V1. Temat "Todo Lista + Rejastracja użytkowników + Logowanie". BackEnd - express + baza danych mysql. FrontEnd - React. Export bazy danych w projekcie todo-back w pliku dbexport.txt lub dbexport.zip. Ogólnie ze względu na ograniczony czas nie do końca zrealizowałem założone sobie wytyczne. Powinienem poprawić jeszcze autentykację przez ciasteczka i z użyciem passport. Postanowiłem wysłać prostrzą działającą wersję ponieważ muszę teraz nadgonić naukę Nest Js do końcowego etapu. Oczywiście jak będę miał więcej czasu w przyszłości wrócę i poprawię ten projekt.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
